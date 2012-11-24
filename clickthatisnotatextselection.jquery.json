@@ -1,0 +1,29 @@
+{
+  "name": "clickthatisnotatextselection",
+  "title": "jQuery special event Click-that-is-not-a-text-selection",
+  "description": "",
+  "version": "0.1.0",
+  "homepage": "https://github.com/FGRibreau/jquery-clicthatisnotatextselection",
+  "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://twitter.com/FGRibreau)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/FGRibreau/jquery-clicthatisnotatextselection"
+  },
+  "bugs": {
+    "url": "https://github.com/FGRibreau/jquery-clicthatisnotatextselection/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/FGRibreau/jquery-clicthatisnotatextselection/blob/master/LICENSE-MIT"
+    },
+    {
+      "type": "GPL",
+      "url": "https://github.com/FGRibreau/jquery-clicthatisnotatextselection/blob/master/LICENSE-GPL"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">= 1.6"
+  },
+  "keywords": []
+}
