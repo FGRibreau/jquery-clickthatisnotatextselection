@@ -1,5 +1,5 @@
 /*! jQuery special event Click-that-is-not-a-text-selection - v0.1.0 - 2012-11-24
-* https://github.com/FGRibreau/jquery-clicthatisnotatextselection
+* https://github.com/FGRibreau/jquery-clickthatisnotatextselection
 * Copyright (c) 2012 ; Licensed MIT, GPL */
 
 (function($){

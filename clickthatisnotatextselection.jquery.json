@@ -3,7 +3,7 @@
   "title": "jQuery special event Click-that-is-not-a-text-selection",
   "description": "",
   "version": "0.1.0",
-  "homepage": "https://github.com/FGRibreau/jquery-clicthatisnotatextselection",
+  "homepage": "https://github.com/FGRibreau/jquery-clickthatisnotatextselection",
   "author": "Francois-Guillaume Ribreau <npm@fgribreau.com> (http://twitter.com/FGRibreau)",
   "repository": {
     "type": "git",
