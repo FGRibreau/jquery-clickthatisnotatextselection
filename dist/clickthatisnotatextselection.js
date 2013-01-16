@@ -22,9 +22,9 @@
   }
 
   function onClick(cb) {
-    return function(){
+    return function(e){
       if(!isTextSelected()){
-        cb();
+        cb(e);
       }
     };
   }
