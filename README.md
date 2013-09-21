@@ -1,4 +1,4 @@
-# jQuery special event Click-that-is-not-a-text-selection
+# jQuery special event Click-that-is-not-a-text-selection [![Gittip](http://badgr.co/gittip/fgribreau.png)](https://www.gittip.com/fgribreau/)
 
 Listen to click events that does not come from text selection.
 
